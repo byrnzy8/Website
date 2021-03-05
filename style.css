@@ -1,0 +1,75 @@
+/*Remember to save!*/
+
+body {
+  background-color: pink;
+  border: 2px solid white;
+}
+
+
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  font-style: italic;
+  margin: auto;
+}
+
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  line-height: 2;
+  font-weight: normal;
+  font-style: italic;
+  margin-top 15px 0;
+  margin-bottom: 20px;
+  margin-right 30px;
+  margin-left: 0;
+}
+
+
+
+li {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: bold;
+}
+
+
+footer {
+  color: black;
+  font-weight: normal;
+  font-style: italic;
+}
+
+a {
+  color: black;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 800px;
+  width: auto;
+}
